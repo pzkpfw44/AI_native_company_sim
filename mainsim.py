@@ -5,7 +5,7 @@ from datetime import datetime
 class AINativeCompany:
     def __init__(self, name="AI Corp"):
         self.name = name
-        self.balance = 1000000  # Starting budget in dollars
+        self.balance = 1000000  # Starting budget in any currency you want
         self.employees = 50  # Initial human workforce
         self.ai_agents = 10  # Initial AI workforce
         self.market_trend = 1.0  # Market health (1.0 = stable, <1 = downturn, >1 = growth)
