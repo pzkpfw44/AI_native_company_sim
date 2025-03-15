@@ -60,3 +60,5 @@ if __name__ == "__main__":
     df = pd.DataFrame(company.history)
     print("\nSimulation Results:")
     print(df)
+
+# END
