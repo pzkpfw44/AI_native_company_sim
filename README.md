@@ -5,7 +5,7 @@ Overview
 The AI-Native Company Simulation models an AI-driven enterprise where artificial intelligence makes strategic business decisions, adapts to market fluctuations, and manages financial resources. The goal is to explore how AI can optimize business processes, allocate resources, and respond to economic conditions dynamically.
 This is still a first testing version upon with additional builds will take place.
 
-Features
+Features 
 
 AI-Driven Decision Making: AI autonomously selects between HR investment, R&D, marketing, or cost-cutting strategies.
 
